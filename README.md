@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Gatstrap
 
-You can use the [editor on GitHub](https://github.com/canonical-debate-lab/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Build Status](https://travis-ci.org/jaxx2104/gatsby-starter-bootstrap.svg?branch=master)](https://travis-ci.org/jaxx2104/gatsby-starter-bootstrap)
+[![dependency Status](https://img.shields.io/david/jaxx2104/gatsby-starter-bootstrap.svg?style=flat-square)](https://david-dm.org/jaxx2104/gatsby-starter-bootstrap#info=dependencies)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gatsby starter for bootstrap a blog
 
-### Markdown
+![thumb](https://user-images.githubusercontent.com/2681007/42584980-656c9406-856f-11e8-882f-cafa9d89b395.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## GatsbyJS v2-beta, v1, v0
 
-```markdown
-Syntax highlighted code block
+- For v2 beta version of this starter, check out the [master branch](https://github.com/jaxx2104/gatsby-starter-bootstrap).
+- For v1 version, check out the [v1 branch](https://github.com/jaxx2104/gatsby-starter-bootstrap/tree/v1).
+- For v0 version, check out the [v0 branch](https://github.com/jaxx2104/gatsby-starter-bootstrap/tree/v0).
+- Make sure to read the [migration guide](https://next.gatsbyjs.org/docs/migrating-from-v1-to-v2/) when porting v1 projects to v2.
 
-# Header 1
-## Header 2
-### Header 3
+## Features
 
-- Bulleted
-- List
+- Single column layout
+- Simple components: Post, Page, Navi, Footer etc.
+- [Twitter Bootstrap 4](https://github.com/twbs/bootstrap) css framework.
+- Custom theme color.
 
-1. Numbered
-2. List
+## Installation
 
-**Bold** and _Italic_ and `Code` text
+Install this starter (assuming Gatsby is installed) by running from your CLI:
+`gatsby new gatstrap https://github.com/jaxx2104/gatsby-starter-bootstrap`
 
-[Link](url) and ![Image](src)
-```
+## Usage
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+develop
+`gatsby develop`
 
-### Jekyll Themes
+### Custom Theme
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/canonical-debate-lab/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+`/src/layouts/gatstrap.css`
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![1f466b07-5506-4c8d-8d17-8d02b42d6d0d](https://user-images.githubusercontent.com/2681007/43086458-5092d0be-8ed8-11e8-8125-8b336fdd3b43.gif)
