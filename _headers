@@ -7,20 +7,17 @@
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-c1167469c828bd77edf2.js>; rel=preload; as=script
-  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-9f760c8c76edb74daa4c.js>; rel=preload; as=script
-/hello-world/
-  Link: </webpack-runtime-c1167469c828bd77edf2.js>; rel=preload; as=script
-  Link: </0.66483ced8e776b88ccec.css>; rel=preload; as=script
-/markdown/
-  Link: </webpack-runtime-c1167469c828bd77edf2.js>; rel=preload; as=script
-  Link: </0.66483ced8e776b88ccec.css>; rel=preload; as=script
-/my-second-post/
-  Link: </webpack-runtime-c1167469c828bd77edf2.js>; rel=preload; as=script
-  Link: </0.66483ced8e776b88ccec.css>; rel=preload; as=script
+  Link: </webpack-runtime-911c4174fef3801087d0.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-d19ece59521715589c1d.js>; rel=preload; as=script
+/starting-the-canonical-debate-lab/
+  Link: </webpack-runtime-911c4174fef3801087d0.js>; rel=preload; as=script
+  Link: </0.5254373cc01407d325fe.css>; rel=preload; as=script
+/about/
+  Link: </webpack-runtime-911c4174fef3801087d0.js>; rel=preload; as=script
+  Link: </0.5254373cc01407d325fe.css>; rel=preload; as=script
+/blog/
+  Link: </webpack-runtime-911c4174fef3801087d0.js>; rel=preload; as=script
+  Link: </0.5254373cc01407d325fe.css>; rel=preload; as=script
 /
-  Link: </webpack-runtime-c1167469c828bd77edf2.js>; rel=preload; as=script
-  Link: </0.66483ced8e776b88ccec.css>; rel=preload; as=script
-/Profile/
-  Link: </webpack-runtime-c1167469c828bd77edf2.js>; rel=preload; as=script
-  Link: </0.66483ced8e776b88ccec.css>; rel=preload; as=script
+  Link: </webpack-runtime-911c4174fef3801087d0.js>; rel=preload; as=script
+  Link: </0.5254373cc01407d325fe.css>; rel=preload; as=script
