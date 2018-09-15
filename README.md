@@ -7,4 +7,4 @@ Based on [Gatstrap](https://github.com/jaxx2104/gatsby-starter-bootstrap) [v2-be
 - `gatsby develop` — Gatsby will start a hot-reloading development environment accessible at [localhost:8000](http://localhost:8000). Saved changes will live reload in the browser.
 - `gatsby build` — Gatsby will perform an optimized production build for your site generating static HTML and per-route JavaScript code bundles.
 - `gatsby serve` — Gatsby starts a local HTML server for testing your built site.
-- `gatsby deploy` — will deploy the site to the gh-pages branch which will display on CanonicalDebateLab.com
+- `npm run deploy` — will deploy the site to the gh-pages branch which will display on CanonicalDebateLab.com
