@@ -351,6 +351,10 @@ class About extends React.Component {
                   </a>
                 </li>
               </ul>
+              <hr class="border-primary" />
+              <a href="https://github.com/canonical-debate-lab/website/blob/master/src/pages/about.js">
+                Edit this page on GitHub
+              </a>
             </div>
           </section>
         </div>

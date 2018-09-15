@@ -31,16 +31,6 @@ section {
     top: 2em;
   }
 
-  hr {
-    border-color: $red;
-    border-width: 3px;
-    max-width: 50px;
-
-    &.light {
-      border-color: $white;
-    }
-  }
-
   .section-heading {
     font-family: $font-family-monospace;
   }
