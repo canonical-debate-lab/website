@@ -4,4 +4,5 @@
 <url> <loc>https://canonicaldebatelab.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://canonicaldebatelab.com/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://canonicaldebatelab.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://canonicaldebatelab.com/nda/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
