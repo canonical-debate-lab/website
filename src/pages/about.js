@@ -109,47 +109,6 @@ class About extends React.Component {
                   <a href="https://github.com/Venryx">Github profile</a>
                 </li>
               </ul>
-              <h3>Bentley Davis</h3>
-              <p>
-                <img
-                  src="https://avatars0.githubusercontent.com/u/1606382?s=460&amp;v=4"
-                  alt="bentley"
-                />
-              </p>
-              <blockquote>
-                <p>
-                  I grew tired of the divisive bickering and misinformation so I
-                  created&nbsp;
-                  <a href="https://reasonscore.com/">Reason Score</a>, a crowd
-                  sourced super fact checking web app. I hope the underlying
-                  concept will be useful in helping people understand canonical
-                  debates.
-                </p>
-              </blockquote>
-              <p>
-                Bentley Davis is a co-founder of the&nbsp;
-                <a href="https://protruthpledge.org/">Pro-Truth Pledge</a>
-                &nbsp;which encourage politicians &ndash; and everyone else
-                &ndash; to commit to truth-oriented behaviors and promote facts
-                and civility. He is also a software developer with over 30 years
-                of experience including 15 years of management and has been a
-                CTO of a startup with a successful exit. He has been working on
-                effective debate tools since 2012.
-              </p>
-              <ul>
-                <li>
-                  <a href="https://bentleydavis.com/">BentleyDavis.com</a>
-                </li>
-                <li>
-                  <a href="https://twitter.com/bntlyd">Twitter</a>
-                </li>
-                <li>
-                  <a href="https://protruthpledge.org/">Pro-Truth Pledge</a>
-                </li>
-                <li>
-                  <a href="https://reasonscore.com/">Reason Score</a>
-                </li>
-              </ul>
               <h3>Oz Fraier</h3>
               <p>
                 <img
@@ -227,6 +186,48 @@ class About extends React.Component {
                   <a href="http://glebtsipursky.com/about/">
                     GlebTsipursky.com
                   </a>
+                </li>
+              </ul>
+              <h2>Collaborators</h2>
+              <h3>Bentley Davis</h3>
+              <p>
+                <img
+                  src="https://avatars0.githubusercontent.com/u/1606382?s=460&amp;v=4"
+                  alt="bentley"
+                />
+              </p>
+              <blockquote>
+                <p>
+                  I grew tired of the divisive bickering and misinformation so I
+                  created&nbsp;
+                  <a href="https://reasonscore.com/">Reason Score</a>, a crowd
+                  sourced super fact checking web app. I hope the underlying
+                  concept will be useful in helping people understand canonical
+                  debates.
+                </p>
+              </blockquote>
+              <p>
+                Bentley Davis is a co-founder of the&nbsp;
+                <a href="https://protruthpledge.org/">Pro-Truth Pledge</a>
+                &nbsp;which encourage politicians &ndash; and everyone else
+                &ndash; to commit to truth-oriented behaviors and promote facts
+                and civility. He is also a software developer with over 30 years
+                of experience including 15 years of management and has been a
+                CTO of a startup with a successful exit. He has been working on
+                effective debate tools since 2012.
+              </p>
+              <ul>
+                <li>
+                  <a href="https://bentleydavis.com/">BentleyDavis.com</a>
+                </li>
+                <li>
+                  <a href="https://twitter.com/bntlyd">Twitter</a>
+                </li>
+                <li>
+                  <a href="https://protruthpledge.org/">Pro-Truth Pledge</a>
+                </li>
+                <li>
+                  <a href="https://reasonscore.com/">Reason Score</a>
                 </li>
               </ul>
               <hr class="border-primary" />
