@@ -8,6 +8,7 @@ class Navi extends React.Component {
       <nav className="navbar navbar-expand navbar-dark flex-column flex-md-row bg-primary">
         <div className="container">
           <Link className="text-center" to="/">
+            <img src="/icon.png" />
             <h1 className="navbar-brand mb-0">{title}</h1>
           </Link>
           <div className="navbar-nav-scroll">
@@ -32,16 +33,13 @@ class Navi extends React.Component {
                   About
                 </Link>
               </li>
-              <li
-                className={
-                  location.pathname === '/blog/'
-                    ? 'nav-item active'
-                    : 'nav-item'
-                }
-              >
-                <Link to="/blog/" className="nav-link">
+              <li class="nav-item">
+                <a
+                  class="nav-link"
+                  href="https://medium.com/canonical-debate-lab"
+                >
                   Blog
-                </Link>
+                </a>
               </li>
             </ul>
           </div>
