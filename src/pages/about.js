@@ -151,43 +151,6 @@ class About extends React.Component {
                   <a href="https://github.com/OzFri">Github profile</a>
                 </li>
               </ul>
-              <h2>Advisors</h2>
-              <h3>Dr. Gleb Tsipursky</h3>
-              <p>
-                <img
-                  src="https://camo.githubusercontent.com/f4e23f9f674a1139b8e49fe54e1738d7102f695f/687474703a2f2f676c6562747369707572736b792e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30322f476c65622d547369707572736b792d37343078313032342e6a7067"
-                  alt="Dr. Gleb Tsipursky"
-                  width="400px"
-                  data-canonical-src="http://glebtsipursky.com/wp-content/uploads/2018/02/Gleb-Tsipursky-740x1024.jpg"
-                />
-              </p>
-              <p>
-                Dr. Gleb Tsipursky is the President of&nbsp;
-                <a href="https://intentionalinsights.org/">
-                  Intentional Insights
-                </a>
-                , and co-founder of the&nbsp;
-                <a href="https://www.protruthpledge.org/">Pro-Truth Pledge</a>.
-                A behavioral science expert with over 15 years in academia,
-                including as a professor at Ohio State University, Gleb is a
-                speaker and consultant on decision-making and social and
-                emotional intelligence. He authored the #1 Amazon
-                bestseller&nbsp;
-                <a href="https://www.amazon.com/Truth-Seekers-Handbook-Science-Based-Guide-ebook/dp/B078429WCF">
-                  The Truth-Seeker&rsquo;s Handbook
-                </a>
-                : A Science-Based Guide and frequently appears in venues like
-                Time, Scientific American, Newsweek, Fast Company, Inc.
-                Magazine, NPR, CBS News, Psychology Today, The Conversation, and
-                CNBC
-              </p>
-              <ul>
-                <li>
-                  <a href="http://glebtsipursky.com/about/">
-                    GlebTsipursky.com
-                  </a>
-                </li>
-              </ul>
               <h2>Collaborators</h2>
               <h3>Bentley Davis</h3>
               <p>
