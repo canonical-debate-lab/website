@@ -36,6 +36,8 @@ const HomeIndex = ({ data, location }) => {
           </a>
           <br />
           <a href="https://github.com/canonical-debate-lab">GitHub</a>
+          <br />
+          <a href="https://canonicaldebate.com">Live Demo Site</a>
         </div>
       </section>
     </Layout>
