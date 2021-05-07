@@ -31,6 +31,7 @@ class About extends React.Component {
               <h3>Timothy High</h3>
               <p>
                 <img
+                  width="400"
                   src="https://avatars1.githubusercontent.com/u/72254?s=400&amp;u=85627866a22aa7bf97c4ec027c32f21051ef1f5d&amp;v=4"
                   alt="timothy"
                 />
@@ -72,6 +73,7 @@ class About extends React.Component {
               <h3>Stephen Wicklund</h3>
               <p>
                 <img
+                  width="400"
                   src="https://avatars3.githubusercontent.com/u/5303978?s=460&amp;v=4"
                   alt="stephen"
                 />
@@ -112,6 +114,7 @@ class About extends React.Component {
               <h3>Oz Fraier</h3>
               <p>
                 <img
+                  width="400"
                   src="https://camo.githubusercontent.com/3d6d7d0f8c1cb813877ba08c0a157a28ce5585be/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3149594142577378314e35366f4f376c59796b75714a6b726a6e6b614976707337"
                   alt="oz"
                 />
@@ -155,6 +158,7 @@ class About extends React.Component {
               <h3>Bentley Davis</h3>
               <p>
                 <img
+                  width="400"
                   src="https://avatars0.githubusercontent.com/u/1606382?s=460&amp;v=4"
                   alt="bentley"
                 />
@@ -191,6 +195,35 @@ class About extends React.Component {
                 </li>
                 <li>
                   <a href="https://reasonscore.com/">Reason Score</a>
+                </li>
+              </ul>
+              <h3>Jamie Joyce</h3>
+              <p>
+                <img width="400" src="/about/JamieJoyce.jpg" alt="jamie" />
+              </p>
+              <blockquote>
+                <p />
+              </blockquote>
+              <p>
+                Jamie Joyce is Executive Director of the Society Library, and a
+                founding member of the Canonical Debate Lab
+              </p>
+              <ul>
+                <li>
+                  <a href="http://societylibrary.com/">Society Library</a>
+                </li>
+                <li>
+                  <a href="http://jamiejoyce.com/">Personal Page</a>
+                </li>
+                <li>
+                  <a href="http://internetgovernment.org/">
+                    Internet Government
+                  </a>
+                </li>
+                <li>
+                  <a href="http://greatamericandebate.org/">
+                    Great American Debate
+                  </a>
                 </li>
               </ul>
               <hr class="border-primary" />
