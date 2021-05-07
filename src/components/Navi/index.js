@@ -8,7 +8,7 @@ class Navi extends React.Component {
       <nav className="navbar navbar-expand navbar-dark flex-column flex-md-row bg-primary">
         <div className="container">
           <Link className="text-center" to="/">
-            <img height="50" src="/Icon.png" />
+            <img height="50" src="/Icon.png" className="logo" />
             <h1 className="navbar-brand mb-0">{title}</h1>
           </Link>
           <div className="navbar-nav-scroll">

@@ -27,7 +27,9 @@ class About extends React.Component {
                 time to define a similar platform for disputed facts and other
                 topics of debate.
               </p>
+
               <h2>Members</h2>
+
               <h3>Timothy High</h3>
               <p>
                 <img
@@ -111,6 +113,7 @@ class About extends React.Component {
                   <a href="https://github.com/Venryx">Github profile</a>
                 </li>
               </ul>
+
               <h3>Oz Fraier</h3>
               <p>
                 <img
@@ -154,7 +157,7 @@ class About extends React.Component {
                   <a href="https://github.com/OzFri">Github profile</a>
                 </li>
               </ul>
-              <h2>Collaborators</h2>
+
               <h3>Bentley Davis</h3>
               <p>
                 <img
@@ -200,6 +203,7 @@ class About extends React.Component {
                   <a href="https://gullibot.com/">Gulli Bot</a>
                 </li>
               </ul>
+
               <h3>Jamie Joyce</h3>
               <p>
                 <img width="400" src="/about/JamieJoyce.jpg" alt="jamie" />
@@ -227,6 +231,24 @@ class About extends React.Component {
                   <a href="http://greatamericandebate.org/">
                     Great American Debate
                   </a>
+                </li>
+              </ul>
+
+              <h3>Whysaurus</h3>
+              <p>
+                <img width="400" src="/about/Whysaurus.png" alt="whysaurus" />
+              </p>
+              <blockquote>
+                <p />
+              </blockquote>
+              <p>
+                Whysaurus is a debate website whose founders have joined the
+                Canonical Debate Lab. The Whysaurus mission is to collect the
+                best evidence-based arguments for everything.
+              </p>
+              <ul>
+                <li>
+                  <a href="https://www.whysaurus.com/">Whysaurus</a>
                 </li>
               </ul>
               <hr class="border-primary" />

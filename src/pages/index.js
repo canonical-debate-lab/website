@@ -30,14 +30,38 @@ const HomeIndex = ({ data, location }) => {
             this tool, we can finally fulfill the promise that was given with
             the rise of the Internet.
           </p>
+
           <h2>Discover More</h2>
-          <a href="https://github.com/canonical-debate-lab/paper/blob/master/README.mediawiki">
-            White Paper
-          </a>
-          <br />
-          <a href="https://github.com/canonical-debate-lab">GitHub</a>
-          <br />
-          <a href="https://canonicaldebate.com">Live Demo Site</a>
+          <p>
+            <a href="https://github.com/canonical-debate-lab/paper/blob/master/README.mediawiki">
+              White Paper
+            </a>
+            <br />
+            <a href="https://github.com/canonical-debate-lab">GitHub</a>
+            <br />
+            <a href="https://www.youtube.com/channel/UCz0tKmmYwJcFqrjeyYkXaPA">
+              YouTube Channel
+            </a>
+            <br />
+            <a href="https://canonicaldebate.com">Live Demo Site</a>
+          </p>
+
+          <h2>Partner Sites</h2>
+          <p>
+            <a href="https://socratrees.azurewebsites.net/">Socratrees</a>
+            <br />
+            <a href="https://reasonscore.com/">ReasonScore</a>
+            <br />
+            <a href="https://gullibot.com/">Gulli Bot</a>
+            <br />
+            <a href="https://www.whysaurus.com/">Whysaurus</a>
+            <br />
+            <a href="https://conversence.com/">Conversense</a>
+            <br />
+            <a href="https://www.societylibrary.org/">The Society Library</a>
+            <br />
+            <a href="http://gruff.org/">Gruff</a>
+          </p>
         </div>
       </section>
     </Layout>
