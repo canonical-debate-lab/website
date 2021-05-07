@@ -17,7 +17,7 @@ class About extends React.Component {
         <div>
           <section>
             <div className="container">
-              <h1>About Canonocal Debate Lab (CDL)</h1>
+              <h1>About Canonical Debate Lab (CDL)</h1>
               <p>
                 The Canonical Debate Lab is a community of people that have come
                 together to define a single canonical place to focus and
@@ -195,6 +195,9 @@ class About extends React.Component {
                 </li>
                 <li>
                   <a href="https://reasonscore.com/">Reason Score</a>
+                </li>
+                <li>
+                  <a href="https://gullibot.com/">Gulli Bot</a>
                 </li>
               </ul>
               <h3>Jamie Joyce</h3>
