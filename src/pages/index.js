@@ -36,6 +36,7 @@ const HomeIndex = ({ data, location }) => {
             <a href="https://github.com/canonical-debate-lab/paper/blob/master/README.mediawiki">
               White Paper
             </a>
+            <a href="/CIDesign/">Collective Intelligence Design Challenges</a>
             <br />
             <a href="https://github.com/canonical-debate-lab">GitHub</a>
             <br />
