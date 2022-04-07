@@ -7,20 +7,20 @@
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-df9fed3e59d6d4ad1445.js>; rel=preload; as=script
+  Link: </webpack-runtime-9be3eff696ae2409c354.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-be5ba3d6c002f01ca007.js>; rel=preload; as=script
 /starting-the-canonical-debate-lab/
-  Link: </webpack-runtime-df9fed3e59d6d4ad1445.js>; rel=preload; as=script
+  Link: </webpack-runtime-9be3eff696ae2409c354.js>; rel=preload; as=script
   Link: </0.5ac8f156ca922cc4708e.css>; rel=preload; as=script
 /about/
-  Link: </webpack-runtime-df9fed3e59d6d4ad1445.js>; rel=preload; as=script
+  Link: </webpack-runtime-9be3eff696ae2409c354.js>; rel=preload; as=script
   Link: </0.5ac8f156ca922cc4708e.css>; rel=preload; as=script
 /blog/
-  Link: </webpack-runtime-df9fed3e59d6d4ad1445.js>; rel=preload; as=script
+  Link: </webpack-runtime-9be3eff696ae2409c354.js>; rel=preload; as=script
   Link: </0.5ac8f156ca922cc4708e.css>; rel=preload; as=script
 /CIDesign/
-  Link: </webpack-runtime-df9fed3e59d6d4ad1445.js>; rel=preload; as=script
+  Link: </webpack-runtime-9be3eff696ae2409c354.js>; rel=preload; as=script
   Link: </0.5ac8f156ca922cc4708e.css>; rel=preload; as=script
 /
-  Link: </webpack-runtime-df9fed3e59d6d4ad1445.js>; rel=preload; as=script
+  Link: </webpack-runtime-9be3eff696ae2409c354.js>; rel=preload; as=script
   Link: </0.5ac8f156ca922cc4708e.css>; rel=preload; as=script
