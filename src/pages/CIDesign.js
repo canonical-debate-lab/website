@@ -218,7 +218,6 @@ class CIDesign extends React.Component {
               concerns they may have, and allow anyone to contribute freely to
               counteract potential biases.
             </p>
-            <p> </p>
             <p>
               However, open contributions are at odds with quality control. For
               example, free contributions open up the system to manipulation
