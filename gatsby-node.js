@@ -1,5 +1,3 @@
-const each = require('lodash/each')
-const Promise = require('bluebird')
 const path = require('path')
 const PostTemplate = path.resolve('./src/templates/index.js')
 
@@ -38,7 +36,7 @@ exports.createPages = ({ graphql, actions }) => {
         // Create blog posts & pages.
         const items = data.allFile.edges
         const posts = items.filter(({ node }) => /posts/.test(node.name))
-        each(posts, ({ node }) => {
+        posts.forEach(({ node }) => {
           if (!node.remark) return
           const { path } = node.remark.frontmatter
           createPage({
@@ -48,7 +46,7 @@ exports.createPages = ({ graphql, actions }) => {
         })
 
         const pages = items.filter(({ node }) => /page/.test(node.name))
-        each(pages, ({ node }) => {
+        pages.forEach(({ node }) => {
           if (!node.remark) return
           const { name } = path.parse(node.path)
           const PageTemplate = path.resolve(node.path)
