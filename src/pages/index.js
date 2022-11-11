@@ -33,6 +33,9 @@ const HomeIndex = ({ data, location }) => {
 
           <h2>Discover More</h2>
           <p>
+            <a href="https://medium.com/canonical-debate-lab">
+              Blog
+            </a>
             <a href="https://github.com/canonical-debate-lab/paper/blob/master/README.mediawiki">
               White Paper
             </a>
@@ -52,9 +55,7 @@ const HomeIndex = ({ data, location }) => {
           <p>
             <a href="https://socratrees.azurewebsites.net/">Socratrees</a>
             <br />
-            <a href="https://reasonscore.com/">ReasonScore</a>
-            <br />
-            <a href="https://gullibot.com/">Gulli Bot</a>
+            <a href="https://reasonpedia.com/">Reasonpedia</a>
             <br />
             <a href="https://www.whysaurus.com/">Whysaurus</a>
             <br />
@@ -63,6 +64,10 @@ const HomeIndex = ({ data, location }) => {
             <a href="https://www.societylibrary.org/">The Society Library</a>
             <br />
             <a href="http://gruff.org/">Gruff</a>
+            <br />
+            <a href="https://www.howdju.com/">Howdju</a>
+            <br />
+            <a href="https://www.reasonspace.com/">ReasonSpace</a>
           </p>
         </div>
       </section>
