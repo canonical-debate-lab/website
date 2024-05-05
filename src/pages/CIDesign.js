@@ -18,7 +18,7 @@ class CIDesign extends React.Component {
           <div className="container">
             <h1>Collective Intelligence Design Challenges</h1>
             <p>
-              (This paper was originally written as constructive criticism for 
+              (This paper was originally written as constructive criticism for
               <a href="https://mapsmap.devpost.com/">the MapsMap challenge</a>
               .)
             </p>
@@ -262,9 +262,9 @@ class CIDesign extends React.Component {
 
             <ul>
               <li>
-                Felix Dietze, MSc CS, Sr. Full-Stack Developer : 
-                <a href="https://github.com/woost/wust">Wust</a>, 
-                <a href="https://github.com/woost/wust2">Wust2</a>, 
+                Felix Dietze, MSc CS, Sr. Full-Stack Developer :
+                <a href="https://github.com/woost/wust">Wust</a>,
+                <a href="https://github.com/woost/wust2">Wust2</a>,
                 <a href="https://github.com/fdietze/wust3">Wust3</a>
                 <ul>
                   <li>
@@ -281,14 +281,14 @@ class CIDesign extends React.Component {
                 </ul>
               </li>
               <li>
-                Joshua Frankel and Eugene Byrne : 
+                Joshua Frankel and Eugene Byrne :
                 <a href="https://www.whysaurus.com/">Whysaurus</a>
               </li>
               <li>
                 Carl Gieringer : <a href="http://howdju.com/">Howdju</a>
               </li>
               <li>
-                Timothy High : 
+                Timothy High :
                 <a href="https://canonicaldebatelab.com/">
                   Canonical Debate Lab
                 </a>
@@ -301,7 +301,7 @@ class CIDesign extends React.Component {
                 </ul>
               </li>
               <li>
-                Steven Jeuris, PhD HCI, Software Architect : 
+                Steven Jeuris, PhD HCI, Software Architect :
                 <a href="https://socratrees.azurewebsites.net/">Socratrees</a>
                 <ul>
                   <li>
@@ -313,7 +313,7 @@ class CIDesign extends React.Component {
                 </ul>
               </li>
               <li>
-                Jamie Joyce: 
+                Jamie Joyce:
                 <a href="http://societylibrary.org">Society Library</a>
               </li>
               <li>
@@ -327,12 +327,12 @@ class CIDesign extends React.Component {
                 </ul>
               </li>
               <li>
-                Dr Mathilde Noual, Theoretical Computer Scientist : 
+                Dr Mathilde Noual, Theoretical Computer Scientist :
                 <a href="https://www.incaseofpeace.org/">In Case of Peace </a>
               </li>
               <li>
-                Marc-Antoine Parent, MSc Systems Science : 
-                <a href="https://hyperknowledge.org">HyperKnowledge</a>, 
+                Marc-Antoine Parent, MSc Systems Science :
+                <a href="https://hyperknowledge.org">HyperKnowledge</a>,
                 <a href="https://idealoom.org">IdeaLoom</a>
                 <ul>
                   <li>
@@ -344,8 +344,7 @@ class CIDesign extends React.Component {
                 </ul>
               </li>
               <li>
-                Jack Park : 
-                <a href="https://sensecraft.conversence.com">SenseCraft</a>
+                Jack Park : <a href="https://sensecraft.garden">SenseCraft</a>
                  by <a href="http://www.topicquests.org">TopicQuests</a>
                 <ul>
                   <li>
