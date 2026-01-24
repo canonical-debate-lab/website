@@ -33,9 +33,8 @@ const HomeIndex = ({ data, location }) => {
 
           <h2>Discover More</h2>
           <p>
-            <a href="https://medium.com/canonical-debate-lab">
-              Blog
-            </a>
+            <a href="https://medium.com/canonical-debate-lab">Blog</a>
+            <br />
             <a href="https://github.com/canonical-debate-lab/paper/blob/master/README.mediawiki">
               White Paper
             </a>
@@ -47,6 +46,8 @@ const HomeIndex = ({ data, location }) => {
             <a href="https://www.youtube.com/channel/UCz0tKmmYwJcFqrjeyYkXaPA">
               YouTube Channel
             </a>
+            <br />
+            <a href="https://discord.gg/s2DPpscXFy">Discord Server</a>
             <br />
             <a href="https://canonicaldebate.com">Live Demo Site</a>
           </p>
