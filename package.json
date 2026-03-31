@@ -27,7 +27,7 @@
     "gatsby-remark-responsive-iframe": "^2.0.0-beta.1",
     "gatsby-remark-smartypants": "^2.0.0-beta.1",
     "gatsby-source-filesystem": "^2.0.1-beta.1",
-    "gatsby-transformer-remark": "^2.1.1-beta.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.1.1-beta.1",
     "npm": "^6.8.0"
   },
